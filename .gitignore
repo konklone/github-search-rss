@@ -1,2 +1,5 @@
 .DS_Store
 /todo.txt
+/.env
+/.ruby-version
+/npm-shrinkwrap.json

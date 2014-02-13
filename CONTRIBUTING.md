@@ -1,0 +1,1 @@
+By contributing to this repository, you agree to license your contributions under the [MIT License](LICENSE).
