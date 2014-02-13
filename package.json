@@ -1,0 +1,17 @@
+{
+  "name": "github-search-rss",
+  "version": "0.1.0",
+  "private": true,
+
+  "engines": {"node": "0.10.x"},
+
+  "scripts": {
+    "start": "node app.js"
+  },
+
+  "dependencies": {
+    "express": "3.x",
+    "reloader": "*",
+    "octonode": "*"
+  }
+}
